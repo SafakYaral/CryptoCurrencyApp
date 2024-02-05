@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "21-Crypto-Future-or-Hoax.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "21-Crypto-Future-or-Hoax 1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "21-Crypto-Future-or-Hoax 2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
